@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/main.hpp
+/main
+/md5-nopad
